@@ -1,0 +1,1 @@
+Atvidade de API feita em c#.NET com Entity framework core. Com a utilização dos pacotes Microsoft.Entityframework.core,Microsoft.Entityframework.core.Tools, Microsoft.Entityframework.Generation  e Ngscl.Entityframework.Core.
